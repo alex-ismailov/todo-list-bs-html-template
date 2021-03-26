@@ -26,11 +26,26 @@
         </div>
       </div>
     </section>
-    <!-- здесь можно добавить секцию c all active completed задачами -->
-    <section class="container-fluid p-5">
+    <div class="container-fluid px-5 py-3">
       <div class="row">
         <div class="col-lg-10 mx-auto">
-          <!-- <h2 class="text-center">Tasks</h2> -->
+          <ul class="nav nav-tabs">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">all</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">active</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">finished</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <section class="container-fluid px-5">
+      <div class="row">
+        <div class="col-lg-10 mx-auto">
           <ul class="list-group mb-5">
             <li class="list-group-item d-flex justify-content-start align-items-center">
               <div class="form-check">
@@ -59,7 +74,6 @@
     </section>
   </main>
   <footer class="footer border-top py-3 mt-5 bg-light bg-gradient">
-    <!-- <footer class="footer border-top py-3 mt-5"></footer> -->
     <div class="container-xl">
       <div class="text-center">
         created by team
