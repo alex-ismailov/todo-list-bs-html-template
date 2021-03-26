@@ -1,3 +1,5 @@
 # todo-list-bs-html-template
 
-[![todo-list](https://github.com/alex-ismailov/git-imgs/blob/master/rss-agg-filled2-500x281.png)](https://github.com/alex-ismailov/frontend-project-lvl3)
+[![todo-list desktop](https://github.com/alex-ismailov/todo-list-bs-html-template/blob/main/images/desktop-600x377.jpg)](https://github.com/alex-ismailov/todo-list-bs-html-template)
+[![todo-list horiz mob](https://github.com/alex-ismailov/todo-list-bs-html-template/blob/main/images/horiz-600x277.jpg)](https://github.com/alex-ismailov/todo-list-bs-html-template)
+[![todo-list vert mob](https://github.com/alex-ismailov/todo-list-bs-html-template/blob/main/images/vert-277x600.jpg)](https://github.com/alex-ismailov/todo-list-bs-html-template)
